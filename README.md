@@ -1,4 +1,4 @@
-a# pseudoExchangeRateGame
+# pseudoExchangeRateGame
 # 事前準備
 inputimeout<br>
 numpy<br>
