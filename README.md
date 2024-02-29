@@ -1,4 +1,4 @@
-# pseudoExchangeRateGame
+a# pseudoExchangeRateGame
 # 事前準備
 inputimeout<br>
 numpy<br>
@@ -19,3 +19,4 @@ rate.pyをダウンロードしてください。<br>
 buy :　買う　<br>
 sell : 売る<br>
 cmdg : レート推移のグラフを表示(見た後は消してください)<br>
+end : 終了
